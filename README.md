@@ -3,9 +3,9 @@
 ![alt text](Fine-grained-views.png "Fine-grained persepctives in AdvisorQA")
 
 
-This is the GitHub repository of **"[AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence]([https://aclanthology.org/2023.findings-acl.281/](https://arxiv.org/abs/2404.11826))"**, accepted at *NAACL 2025*. 
+This is the GitHub repository of **"[AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)"**, accepted at *NAACL 2025*. 
 
-
+AdvisorQA dataset is in **"[AdvisorQA data](https://huggingface.co/datasets/mbkim/AdvisorQA)"**. If you download it as JSON files, move in the 'data' directory for post-training: SFT, DPO, and PPO.
 
 Use the following to cite our paper:
 ```
