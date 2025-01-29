@@ -5,7 +5,7 @@
 
 This is the GitHub repository of **"[AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence](https://arxiv.org/abs/2404.11826)"**, accepted at *NAACL 2025*. 
 
-AdvisorQA dataset is in **"[AdvisorQA data](https://huggingface.co/datasets/mbkim/AdvisorQA)"**. If you download it as JSON files, move in the 'data' directory for post-training: SFT, DPO, and PPO.
+AdvisorQA dataset is in **"[[data link]](https://huggingface.co/datasets/mbkim/AdvisorQA)"**. If you download it as JSON files, move it to the 'data' directory for post-training: SFT, DPO, and PPO.
 
 Use the following to cite our paper:
 ```
