@@ -1,6 +1,6 @@
 # AdvisorQA
 
-![alt text](Overviews.pdf "Main Figure")
+![alt text](Fine-grained-views.png "Fine-grained persepctives in AdvisorQA")
 
 
 This is the GitHub repository of **"[AdvisorQA: Towards Helpful and Harmless Advice-seeking Question Answering with Collective Intelligence]([https://aclanthology.org/2023.findings-acl.281/](https://arxiv.org/abs/2404.11826))"**, accepted at *NAACL 2025*. 
